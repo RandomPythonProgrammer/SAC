@@ -1,4 +1,4 @@
-Welcome to the Schoology Assignment Checker! This file will serve as your user manual. Please follow the Setup and User
+Welcome to the Schoology Access Tool! This file will serve as your user manual. Please follow the Setup and User
 guide to start using the software.
 
 
